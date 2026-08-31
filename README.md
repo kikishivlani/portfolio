@@ -1,4 +1,4 @@
-# Kiki Shivlani — Data Analytics Portfolio
+# Kiki Shivlani — Portfolio
 
 Neuroscience graduate with a focus on healthcare, research, and data analysis. This repo collects my data analytics case studies and projects, with a particular interest in healthcare, biotech, and public health data.
 
