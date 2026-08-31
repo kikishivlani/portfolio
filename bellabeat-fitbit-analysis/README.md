@@ -3,7 +3,6 @@
 
 **Tools:** SQL (Google BigQuery) · Tableau
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/kiki.shivlani/viz/BellabeatCaseStudy-FitbitAnalysis)
-**Full Report:** [Bellabeat_Case_Study_Report.md](./Bellabeat_Case_Study_Report.md)
 **SQL Queries:** [bellabeat_sql_queries.sql](./bellabeat_sql_queries.sql)
 
 ---
