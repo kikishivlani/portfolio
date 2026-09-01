@@ -2,7 +2,7 @@
 
 A self-directed data analytics case study exploring which demographic, lifestyle, and clinical factors predict Alzheimer's diagnosis — and building a predictive model to test how well they could support early-detection screening.
 
-**[View the interactive Tableau Story →](INSERT_TABLEAU_PUBLIC_LINK_HERE)**
+**[View the interactive Tableau Story →](https://public.tableau.com/app/profile/kiki.shivlani/viz/CaseStudyAlzheimersRiskAnalysis/Story1)**
 
 ---
 
@@ -72,4 +72,4 @@ Risk factors (age, family history, cardiovascular disease, smoking, cholesterol,
 ---
 
 **Author:** Kiki Shivlani
-[Tableau Public](https://public.tableau.com/app/profile/kiki.shivlani) · [GitHub](INSERT_YOUR_GITHUB_PROFILE_LINK)
+[Tableau Public](https://public.tableau.com/app/profile/kiki.shivlani) 
